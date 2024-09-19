@@ -20,7 +20,7 @@ Medverkande arbetsgruppen:
 - Arbetsförmedlingen
 - Bolagsverket
 - Försäkringskassan
-- (Pensionsmyndigheten/eSam)
+- eSam
 - Hav -o Vatten
 
 Samverkansaktörer:
