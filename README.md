@@ -1,4 +1,4 @@
-# Arbetsgrupp för Ena, utforskande Samverkansplattform Öppen Programvara
+# Arbetsgrupp för Ena, utforskande Samverkansplattform Öppen Programvara - SPÖP
 
 This repository is used for collaboration about national digital infrastructure for the exploring phase of an on-prem collaboration/Git Provider platform in Sweden <br />`no-code` `lang SE`
 
@@ -47,7 +47,7 @@ Sammanställning av resultat dokumenteras i mapparna här på GitHub.
 
 - [Beskrivning/Behov/Mål](Idebeskrivning.md)
   - Beskrivning/Behov/Mål - Idebeskrivning för En samverksansplattform för Öppen Programvara
-- [Diskussionpunker](rekommendation.md)
+- [Diskussionpunkter](rekommendation.md)
   - Diskussionpunkter som ska leda till rekommendationer och kravbild
 - [Mötessammanfattningar](Idebeskrivning.md)
   - [2024-09-16](summarys/sammanfattning-mote-2024-09-16.md)
