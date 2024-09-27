@@ -46,6 +46,8 @@ Steg 1-4 upprepas i en iterativ arbetsprocess för ombearbetning och utveckling.
 Sammanställning av resultat dokumenteras i mapparna här på GitHub.
 
 - [Beskrivning/Behov/Mål](Idebeskrivning.md)
-  - Beskrivning/Behov/Mål - Idebeskrivning för En samverksansplattform för Öppen Programvara - rekommendation
+  - Beskrivning/Behov/Mål - Idebeskrivning för En samverksansplattform för Öppen Programvara
+- [Diskussionpunker](rekommendation.md)
+  - Diskussionpunkter som ska leda till rekommendationer och kravbild
 - [Mötessammanfattningar](Idebeskrivning.md)
   - [2024-09-16](summarys/sammanfattning-mote-2024-09-16.md)
