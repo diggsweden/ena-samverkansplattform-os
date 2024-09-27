@@ -6,35 +6,35 @@ Det finns en uppsatt samverkansplattform för öppen programvara man som myndigh
 
 Det är enkelt att komma igång med att samverka kring ett öppet källkod-projekt.
 
-Det finns för den som ansluter i enkelhet och en tydlighet i:
+Det finns för den som ansluter en enkelhet och en tydlighet i:
 
 - hur man kommer igång
-- tydlighet om eventuella kostnader
+- info om eventuella kostnader
 - dokumenterade säkerhetsaspekter
-- tydliga rekommendationer om best praxis för projekten, vad gäller öppen progvara, licens, säkerhet.
+- tydliga rekommendationer om best praxis för projekten, vad gäller öppen programvara, licens, säkerhet.
 
 Effekter:
 
-- På så sätt slipper myndighet (annan aktör), kommun sätta upp egen infratsruktur eller använda en utom-europeisk molntjänst, om man så inte önskar sköta det själv. Det underlättar framför allt man har ett eller ett fåtal projekt man vill dela med andra, eller i en utforskande/kompetensbyggande fas.
+- På så sätt slipper myndighet (annan aktör), kommun sätta upp egen infratstruktur eller använda en utom-europeisk molntjänst, (om man så inte önskar sköta det själv). Det underlättar om man har ett eller ett fåtal projekt man vill dela med andra, eller i en utforskande/kompetensbyggande fas.
 - Det uppstår en naturlig delningsyta som inte är bundet till enskild myndighet/aktör.
-- Det uppstår en naturlig kunskapsbas  om öp-arbetsätt, säkerhet, compliance.
+- Det uppstår en naturlig kunskapsbas  om ÖP-arbetsätt, säkerhet, compliance.
 - Man använder inte en utom-europeisk molntjänst.
 
 ## Avgränsningar
 
-Vi diskuterar i plattformen som avseed för projekt som är publika eller tänkt att bli publika.
+Vi diskuterar en plattform avseed för projekt som är publika eller tänkt att bli publika. En arbetsyta för stängda projekt ställer högre krav.
 
-Punkter märkta med Implementationsdetalj är som inte är viktiga för väldigt sent, eller vid en beställning/realisation av rekommendationen.
+Punkter märkta med Implementationsdetalj är inte är viktiga i detta arbete förrän senare eller inte alls, eller vid en beställning/realisation av rekommendationen.
 
 ## Terminologi
 
 - Samverkansplattform för öppen programvara:
 
-  En av de tillgänglig plattformar för kod mera som finns - exempelvis: GitLab, Gitea med mera.
+  En av de tillgänglig plattformar för kodfokuserade samarbeteb som finns som SaaS och on-prem: - exempelvis: GitLab, Gitea med mera.
 
 - Öppen källkod/Öppen Programvara/Open Source:
 
-  Synomer. Kort och gott en juridisk licensform och ett samarbetssätt.
+  Synonymer. Kort och gott en juridisk licensform och ett samarbetssätt.
 
 ## Krav o diskussionspunkter
 
