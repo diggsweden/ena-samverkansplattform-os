@@ -26,7 +26,7 @@ Det är lätt att komma igång med att samverka kring ett öppet källkod-projek
 ## Avgränsningar
 
 Vi diskuterar en plattform avsedd för projekt som är direkt publika eller som ska bli publika. En arbetsyta för stängda projekt skulle ställa högre krav på sekretess med mera, i och med att det där förekommer information som inte ska bli publik.
-Att projekten ska bli publika innebär inte att det behöver vara det intialt  (t.ex. under kompetenslärande fas eller en uppstädningsfas), men att det ska finns en tänkt plan för en nära framtid då de ska bli det.
+Att projekten ska bli publika innebär inte att de behöver vara det intialt  (t.ex. under kompetenslärande fas eller en uppstädningsfas), men att det ska finns en tänkt plan för en nära framtid då de ska bli det.
 
 ## Terminologi
 
@@ -152,13 +152,11 @@ En dynamisk lista över punkter vi behöver arbeta oss igenom.
 
 - Säkerhetsfokus som krav på produktleverantör
 
-    Organisation som tillhandahåller plattformen ska kunna visa att man arbetar adekvat och brett med säkerhet, med exempel - (arbetar leverantöre med ISO 2700x ? med mera).
+    Organisation som tillhandahåller plattformen ska kunna visa att man arbetar adekvat och brett med säkerhet, med exempel - (arbetar leverantöre med ISO 2700x ? med mera). Här uppfyller exempelvis GitLab, GitHub
+        * GitLab: https://about.gitlab.com/security/
+        * GitHub https://github.com/security
 
-        Här uppfyller exempelvis GitLab, GitHub
-        GitLab: https://about.gitlab.com/security/
-        GitHub https://github.com/security
-
-      medan flera andra samverkaansplattformar för öppen Källkod-lösningar som exempelvis Gitea, Forjego och Gogs inte uppfyller detta.
+    Flera andra samverkansplattformar för öppen Källkod-lösningar uppfyllter inte detta, som exempelvis Gitea, Forjego och Gogs.
 
 - Kraven på Öppen kod och transperans för själva samverkansplattformen
 
