@@ -51,3 +51,4 @@ Sammanställning av resultat dokumenteras i mapparna här på GitHub.
   - Diskussionpunkter som ska leda till rekommendationer och kravbild
 - [Mötessammanfattningar](Idebeskrivning.md)
   - [2024-09-16](summarys/sammanfattning-mote-2024-09-16.md)
+  - [2024-09-30](summarys/sammanfattning-mote-2024-09-30.md)
