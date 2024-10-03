@@ -7,7 +7,7 @@ Närvarande: Bolagsverket, Skatteverket, DIGG, Havs- och Vattenmyndigheten, Traf
 
 * Vi börjar diskussion uppifrån och ned - är vi överens om mål, vilka är de minsta krav man kan ställa för att ringa in plattformen (ISO 27000-serien hos organisationer, upphandling av produkt vs tjänst, open source eller code-by-request, privat vs publikt, bidrag, skrivrättigheter med mera).
 Vi samlade en del konkreta förslag - vissa vi kommer att återvända till - samt, en mängd actionpoints/att-göra-punkter.
-Se [Rekommendationstexten](rekommendation.md) som uppdateras efter diskussionerna.
+Se [Rekommendationstexten](../rekommendation.md) som uppdateras efter diskussionerna.
 
 * Vi bjuder gärna in några flera i arbetet, men ser också styrka och fart i att hålla arbetet i en lagom liten grupp.
 
