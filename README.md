@@ -52,3 +52,4 @@ Sammanställning av resultat dokumenteras i mapparna här på GitHub.
 - [Mötessammanfattningar](Idebeskrivning.md)
   - [2024-09-16](summarys/sammanfattning-mote-2024-09-16.md)
   - [2024-09-30](summarys/sammanfattning-mote-2024-09-30.md)
+  - [2024-10-21](summarys/sammanfattning-mote-2024-10-21.md)
