@@ -54,4 +54,4 @@ Sammanställning av resultat dokumenteras i mapparna här på GitHub.
   - [2024-09-30](summarys/sammanfattning-mote-2024-09-30.md)
   - [2024-10-21](summarys/sammanfattning-mote-2024-10-21.md)
   - [2024-12-06](summarys/sammanfattning-mote-2024-12-06.md)
-  - [2024-02-07](summarys/sammanfattning-mote-2024-02-07.md)
+  - [2025-02-07](summarys/sammanfattning-mote-2025-02-07.md)
