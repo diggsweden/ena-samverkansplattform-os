@@ -2,9 +2,9 @@
 
 ## 1. Nytto och kostnadskalkyl, Rapportdraft - Demo
 
-Berättar om hur vi med hjälp av ENA-samordnare har vi jobbat på en nytto och kostnadskalkyl.
+Berättar om hur vi med hjälp av ENA-samordnare har jobbat på en nytto och kostnadskalkyl.
 
-Demar snabbt rapprt draft, men den är i så mycket utkast att det skulle bli mer frågor än svar att skicka ut de nu.
+Demo snabbt rapprt-draft, men den är i så mycket utkast att det skulle bli mer frågor än svar att skicka ut den nu.
 
 ## 2. Workshop - Nytto och kostandskalkyl
 
