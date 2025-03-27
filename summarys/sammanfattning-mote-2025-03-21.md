@@ -4,7 +4,7 @@
 
 Berättar om hur vi med hjälp av ENA-samordnare har jobbat på en nytto och kostnadskalkyl.
 
-Demo snabbt rapprt-draft, men den är i så mycket utkast att det skulle bli mer frågor än svar att skicka ut den nu.
+Demo av rapport-utkast (kort), den är i så mycket utkast att det skulle bli mer frågor än svar att skicka ut den nu.
 
 ## 2. Workshop - Nytto och kostandskalkyl
 
