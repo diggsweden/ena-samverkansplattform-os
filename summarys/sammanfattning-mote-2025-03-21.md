@@ -31,3 +31,4 @@ Nästa tillfälle fortsätter vi med denna, dock en annan flik.
 - Dags att sammanställa allt material i rapport för att ha något mer konkret att förhålla sig till (Josef jobbar på draft)
 - Josef synkar igen med ENA-samordnare och får med konkret med sig till gruppen.
 - Slipa på material
+
