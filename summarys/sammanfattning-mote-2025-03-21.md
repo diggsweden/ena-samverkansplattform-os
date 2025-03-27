@@ -12,9 +12,9 @@ Vi fick hemläxa från ENA-samordnare att jobba med några avsnitt i mallen.
 Sagt och gjort, vi hann precis igenom "Svårkvantifierbara nyttor".
 
 Exempel är 
-Förenkla för mindre organisationer att delta i digital utveckling
-Högre säkerhet genom att säkerställa att praxis och standarder följs. (guidelines och kontroller kommer finnas inbyggda i upplägget)
-Digital suveränitet....
+- Förenkla för mindre organisationer att delta i digital utveckling
+- Högre säkerhet genom att säkerställa att praxis och standarder följs. (guidelines och kontroller kommer finnas inbyggda i upplägget)
+- Digital suveränitet....
 
 Med mera.
 
