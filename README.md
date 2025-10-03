@@ -8,6 +8,10 @@ Denna samarbetsyta används för lagring och produktion av arbetsdokument för a
 Den här utforskande arbetsgruppen ska komma fram till rekommendationer för att sätta en gemensamt förvaltade samverkansplattform för Öppen Programvara och arbeten därikring, och ge förslag på hur olika frågor ska lösas, samt samverka kring hur vi jobbar med öppen programvara i framtiden.
 För mer information om Ena, se <https://www.digg.se/ledning-och-samordning/ena---sveriges-digitala-infrastruktur>
 
+RESULTAT:
+
+[Kodsamverkansplattform för öppen programvara](Kodsamverkansplattform_1.0.md)
+
 ## Möten
 
 Arbetsgruppen träffas i regel var tredje vecka, 2 timmars möte, under normala kontorstider.
@@ -24,13 +28,15 @@ Medverkande arbetsgruppen:
 
 
 Samverkansaktörer:
-- TO-DO
+- Sambruk
 
 ## Kontakt
 
 För att komma i kontakt med arbetsgruppen, skicka ett meddelande till <ospo@digg.se> eller för all del, lägg en Issue.
 
 ## Arbetssätt
+
+EDIT: Arbetet slutfört se rapportlänk i inledning.
 
 Det material som finns här i denna GitHub-repo är att betrakta som arbetsdokument, som produceras under tidiga faser (idé och koncept), snarare än färdiga officiella rekommendationer. Arbetsgruppen har ambition att göra materialet lättillgänglig och skapa transparens för att kunna få feedback och förslag. Alla bidrag och inspel välkomnas.
 
@@ -56,3 +62,4 @@ Sammanställning av resultat dokumenteras i mapparna här på GitHub.
   - [2024-12-06](summarys/sammanfattning-mote-2024-12-06.md)
   - [2025-02-07](summarys/sammanfattning-mote-2025-02-07.md)
   - [2025-03-21](summarys/sammanfattning-mote-2025-03-21.md)
+  - TODO. lägga till några till mötesanteckningar om finnes.
