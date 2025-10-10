@@ -1,8 +1,13 @@
+
+
 Kodsamverkansplattform för öppen programvara - 1.0.0
 
 En byggsten i den nationella digitala infrastrukturen
 
 Datum: 20250930
+
+NOT: Detta är arbetsutkastet innan full rapport och den kan därmed ha icke fungerade länkar, saknar layout med mera. 
+Version 1.0 av rapporten har ärendenr: 2025-07189
 
 Sammanfattning
 
@@ -1470,5 +1475,6 @@ En **grundförutsättning** för att detta projekt lyckades var att det fanns en
 - [Italy's public service digital strategy updated | EU - Interoperable Europe Portal](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/italys-public-service-digital-strategy-updated) [↑](#footnote-ref-65)
 
 - [openCode - Open Source Platform for Public Administration](https://opencode.de/en) [↑](#footnote-ref-66)
+
 
 - [↑](#footnote-ref-67)
